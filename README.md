@@ -11,4 +11,3 @@
 - [React](https://reactjs.org/) — UI бібліотека.
 - [Tailwind CSS](https://tailwindcss.com/) — для стилізації.
 
-## Посилання
